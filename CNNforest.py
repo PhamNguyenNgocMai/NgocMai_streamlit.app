@@ -32,7 +32,7 @@
         "id": "pS8tCXLxarRu",
         "outputId": "7c48d3d3-95ea-4857-b74d-a3c6d4d690dd"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -45,7 +45,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": none,
+      "execution_count": None,
       "metadata": {
         "id": "M8qb9s3Fk9O7"
       },
@@ -80,7 +80,7 @@
       "metadata": {
         "id": "7pVzT8Utwr1i"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -110,7 +110,7 @@
       "metadata": {
         "id": "ImhFb0zZswyR"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -132,7 +132,7 @@
       "metadata": {
         "id": "bL3WUMIcs1jv"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -150,7 +150,7 @@
       "metadata": {
         "id": "cjXI82bhvkIY"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -162,7 +162,7 @@
       "metadata": {
         "id": "mqNRryQvv4vM"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -184,7 +184,7 @@
       "metadata": {
         "id": "YNKBFofSv8mM"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -198,7 +198,7 @@
       "metadata": {
         "id": "eg__ZDLExPd1"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -218,7 +218,7 @@
       "metadata": {
         "id": "r51fA_wpgM_i"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -238,7 +238,7 @@
       "metadata": {
         "id": "fgF7TeDswkYY"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -252,7 +252,7 @@
       "metadata": {
         "id": "PStyy4h_wpnN"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -268,7 +268,7 @@
         "id": "8lei2C9Ok4IZ",
         "outputId": "353bdfd0-328f-40bf-c19c-9e4e567512a8"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -321,7 +321,7 @@
         },
         "outputId": "c87346e9-f8af-4e97-d4e2-3e3a424d84a1"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -385,7 +385,7 @@
         },
         "outputId": "ee5b62cb-a0dd-42ba-f8db-d19dd26f5339"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "display_data",
@@ -421,7 +421,7 @@
         },
         "outputId": "9990b177-7aac-44f7-cff7-42541439d1c8"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "display_data",
@@ -457,7 +457,7 @@
         "id": "28kTs9vQtXem",
         "outputId": "c0fc900c-9d7e-4fd3-db0e-f1fb11463276"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -481,7 +481,7 @@
         "id": "yP16AHaIlXGt",
         "outputId": "ab1e000b-0a60-4263-d18e-cd0b30db5ae0"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
